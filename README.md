@@ -1,8 +1,33 @@
 
-# 🐧 Penguin Analysis — EDA, PCA, UMAP, Clustering & ML Models
+<p align="center">
+  <img src="https://raw.githubusercontent.com/allisonhorst/palmerpenguins/master/man/figures/lter_penguins.png" width="60%">
+</p>
 
-Analyse complète et reproductible du dataset **Palmer Penguins**, réalisée dans un cadre professionnel de data science.  
-Le projet couvre l’ensemble du pipeline analytique : EDA, feature engineering, réduction de dimension, clustering, modèles supervisés et interprétabilité.
+<h1 align="center">🐧 Penguin Analysis — EDA, PCA, UMAP, Clustering & ML Models</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas">
+  <img src="https://img.shields.io/badge/Scikit--learn-ML-green?logo=scikitlearn">
+  <img src="https://img.shields.io/badge/XGBoost-Modeling-red?logo=xgboost">
+  <img src="https://img.shields.io/badge/CatBoost-Gradient%20Boosting-lightgrey?logo=catboost">
+</p>
+
+---
+
+## 📑 Table des matières
+- [Objectifs du projet](#-objectifs-du-projet)
+- [Structure du dépôt](#-structure-du-dépôt)
+- [Analyse exploratoire (EDA)](#-1-analyse-exploratoire-eda)
+- [Feature Engineering](#-2-feature-engineering)
+- [Réduction de dimension](#-3-réduction-de-dimension)
+- [Clustering](#-4-clustering-non-supervisé)
+- [Modèles supervisés](#-5-modèles-supervisés)
+- [Interprétabilité — SHAP](#-6-interprétabilité--shap)
+- [Rapport final](#-rapport-final)
+- [Reproductibilité](#-reproductibilité)
+- [Auteur](#-auteur)
 
 ---
 
@@ -17,7 +42,6 @@ Le projet couvre l’ensemble du pipeline analytique : EDA, feature engineering,
 ---
 
 ## 📂 Structure du dépôt
-
 
 ---
 
@@ -95,3 +119,5 @@ Il présente :
 
 ## ✨ Auteur
 Projet réalisé par **Mlooi** dans le cadre d’un travail analytique complet.
+
+
